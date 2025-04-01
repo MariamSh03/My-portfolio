@@ -61,7 +61,7 @@ const projects: Project[] = [
     id: 6,
     title: "Gradiator",
     description: "This hackathon project is an AI-powered homework grading application built in collaboration with a team. It features a Tailwind + TypeScript UI, a FastAPI backend, and integrates the Gemini API for assessing handwritten assignments, with RAG-enhanced grading.",
-    tags: ["AI", "RAG", "TypeScript", "Mathematics", "Hackaton"],
+    tags: ["AI", "RAG", "TypeScript", "Mathematics", "Hackathon"],
     imageUrl: "/gradiator-logo.png",
     githubUrl: "https://github.com/MariMamgo/Gradiator",
   }
