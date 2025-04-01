@@ -1,73 +1,39 @@
-# Welcome to your Lovable project
+# Welcome to Mariam's Portfolio 🚀
 
-## Project info
+## About Me
 
-**URL**: https://lovable.dev/projects/243a4641-ac22-4a48-834b-5a660548f14e
+Hi! I'm Mariam, a passionate mathematician with a Bachelor's degree in Mathematics. I love exploring the intersection of math, AI, and software development. My portfolio is a showcase of projects in .NET, AI, LLMs, and beyond. I believe in building smart, scalable, and innovative solutions that push boundaries. 🚀
 
-## How can I edit this code?
+## Project Info
 
-There are several ways of editing your application.
+This portfolio is powered by modern web technologies and is designed to be easily extendable.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/243a4641-ac22-4a48-834b-5a660548f14e) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+#### Steps to Get Started:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository using the project's Git URL
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server with hot-reloading
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Tech Stack 🛠️
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This portfolio is built with:
 
-**Use GitHub Codespaces**
+- **Vite** ⚡ Ultra-fast frontend tooling
+- **TypeScript** 🔵 Statically typed JavaScript
+- **React** ⚛️ Component-based UI
+- **shadcn-ui** 🎨 Elegant UI components
+- **Tailwind CSS** 💨 Utility-first CSS framework
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Why This Portfolio? 🎯
 
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/243a4641-ac22-4a48-834b-5a660548f14e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This portfolio is more than just a website—it's a space where I share my journey in .NET, AI, LLMs, and cutting-edge technologies. If you're interested in collaborating, feel free to reach out!

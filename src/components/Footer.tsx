@@ -8,20 +8,20 @@ const Footer: React.FC = () => {
       <div className="container max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Your Name</h3>
+            <h3 className="text-xl font-bold mb-4">Mariam Shonia</h3>
             <p className="text-muted-foreground mb-4">
               Mathematics Student<br />
               .NET Software Engineer<br />
               AI Enthusiast
             </p>
             <div className="flex gap-4">
-              <a href="https://github.com/yourusername" aria-label="GitHub" className="hover:text-primary transition-colors">
+              <a href="https://github.com/MariamSh03" aria-label="GitHub" className="hover:text-primary transition-colors">
                 <Github size={20} />
               </a>
-              <a href="https://linkedin.com/in/yourusername" aria-label="LinkedIn" className="hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/mariam-shonia-b6934122a/" aria-label="LinkedIn" className="hover:text-primary transition-colors">
                 <Linkedin size={20} />
               </a>
-              <a href="mailto:your.email@example.com" aria-label="Email" className="hover:text-primary transition-colors">
+              <a href="mailto:mshonia18@gmail.com" aria-label="Email" className="hover:text-primary transition-colors">
                 <Mail size={20} />
               </a>
             </div>
@@ -50,14 +50,14 @@ const Footer: React.FC = () => {
             <p className="text-muted-foreground mb-2">
               Interested in collaboration? Let's connect!
             </p>
-            <a href="mailto:your.email@example.com" className="text-primary hover:underline">
-              your.email@example.com
+            <a href="mailto:mshonia18@gmail.com" className="text-primary hover:underline">
+              mshonia18@gmail.com
             </a>
           </div>
         </div>
         
         <div className="border-t border-border/50 mt-8 pt-8 text-center text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Mariam Shonia. All rights reserved.</p>
           <p className="text-sm mt-1">
             Built with React, Tailwind CSS, and passion
           </p>

@@ -10,7 +10,7 @@ const HeroSection: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div className="order-2 md:order-1">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-              Hi, I'm <span className="math-gradient">Your Name</span>
+              Hi, I'm <span className="math-gradient">Mariam</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-medium mb-6 text-muted-foreground">
               Mathematics Student & .NET Developer
@@ -30,13 +30,13 @@ const HeroSection: React.FC = () => {
             </div>
             
             <div className="flex gap-4">
-              <a href="https://github.com/yourusername" aria-label="GitHub" className="hover:text-primary transition-colors">
+              <a href="https://github.com/MariamSh03" aria-label="GitHub" className="hover:text-primary transition-colors">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com/in/yourusername" aria-label="LinkedIn" className="hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/mariam-shonia-b6934122a/" aria-label="LinkedIn" className="hover:text-primary transition-colors">
                 <Linkedin size={24} />
               </a>
-              <a href="mailto:your.email@example.com" aria-label="Email" className="hover:text-primary transition-colors">
+              <a href="mailto:mshonia18@gmail.com" aria-label="Email" className="hover:text-primary transition-colors">
                 <Mail size={24} />
               </a>
             </div>
@@ -48,8 +48,8 @@ const HeroSection: React.FC = () => {
               <div className="relative bg-card rounded-full overflow-hidden h-64 w-64 md:h-80 md:w-80 border-2 border-primary/50">
                 {/* Replace with your actual photo */}
                 <img
-                  src="/placeholder.svg" 
-                  alt="Your Name"
+                  src="/masho.png" 
+                  alt="masho"
                   className="w-full h-full object-cover"
                 />
               </div>
