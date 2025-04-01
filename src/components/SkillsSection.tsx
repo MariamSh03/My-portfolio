@@ -34,12 +34,12 @@ const SkillsSection: React.FC = () => {
     {
       title: "Mathematics",
       icon: <PiSquare size={24} />,
-      skills: ["Linear Algebra", "Calculus", "Graph Theory", "Statistics", "Numerical Analysis"]
+      skills: ["Linear Algebra", "Calculus", "Differential equations", "Statistics", "Numerical Analysis", "Optimization"]
     },
     {
       title: ".NET Development",
       icon: <Code size={24} />,
-      skills: ["C#", "ASP.NET Core", "Entity Framework", "LINQ", "Xamarin"]
+      skills : ["C#", "ASP.NET Core", "Entity Framework", "LINQ", "Dependency Injection"]
     },
     {
       title: "Artificial Intelligence",

@@ -59,11 +59,11 @@ const projects: Project[] = [
   },
   {
     id: 6,
-    title: "Graph Theory Explorer",
-    description: "A tool for exploring graph theory concepts through visualization and interactive examples",
-    tags: ["Graph Theory", "TypeScript", "Mathematics", "Visualization"],
-    imageUrl: "/placeholder.svg",
-    githubUrl: "https://github.com/yourusername/graph-explorer",
+    title: "Gradiator",
+    description: "This hackathon project is an AI-powered homework grading application built in collaboration with a team. It features a Tailwind + TypeScript UI, a FastAPI backend, and integrates the Gemini API for assessing handwritten assignments, with RAG-enhanced grading.",
+    tags: ["AI", "RAG", "TypeScript", "Mathematics", "Hackaton"],
+    imageUrl: "/gradiator-logo.png",
+    githubUrl: "https://github.com/MariMamgo/Gradiator",
   }
 ];
 
