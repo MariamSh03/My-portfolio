@@ -24,16 +24,16 @@ npm install
 npm run dev
 ```
 
-## Tech Stack 🛠️
+## Tech Stack
 
 This portfolio is built with:
 
 - **Vite** Ultra-fast frontend tooling
 - **TypeScript** Statically typed JavaScript
 - **React** Component-based UI
-- **shadcn-ui** 🎨 Elegant UI components
+- **shadcn-ui** Elegant UI components
 - **Tailwind CSS** 💨 Utility-first CSS framework
 
-## Why This Portfolio? 🎯
+## Why This Portfolio?
 
 This portfolio is more than just a website—it's a space where I share my journey in .NET, AI, LLMs, and cutting-edge technologies. If you're interested in collaborating, feel free to reach out!
