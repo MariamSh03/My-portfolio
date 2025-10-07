@@ -1,8 +1,8 @@
-# Welcome to Mariam's Portfolio 🚀
+# Welcome to Mariam's Portfolio
 
 ## About Me
 
-Hi! I'm Mariam, a passionate mathematician with a Bachelor's degree in Mathematics. I love exploring the intersection of math, AI, and software development. My portfolio is a showcase of projects in .NET, AI, LLMs, and beyond. I believe in building smart, scalable, and innovative solutions that push boundaries. 🚀
+Hi! I'm Mariam, a passionate mathematician with a Bachelor's degree in Mathematics. I love exploring the intersection of math, AI, and software development. My portfolio is a showcase of projects in .NET, AI, LLMs, and beyond. I believe in building smart, scalable, and innovative solutions that push boundaries.
 
 ## Project Info
 
@@ -28,9 +28,9 @@ npm run dev
 
 This portfolio is built with:
 
-- **Vite** ⚡ Ultra-fast frontend tooling
-- **TypeScript** 🔵 Statically typed JavaScript
-- **React** ⚛️ Component-based UI
+- **Vite** Ultra-fast frontend tooling
+- **TypeScript** Statically typed JavaScript
+- **React** Component-based UI
 - **shadcn-ui** 🎨 Elegant UI components
 - **Tailwind CSS** 💨 Utility-first CSS framework
 
